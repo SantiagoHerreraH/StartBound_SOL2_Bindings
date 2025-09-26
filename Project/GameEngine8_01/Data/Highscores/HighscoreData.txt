@@ -1,0 +1,12 @@
+[
+    {
+        "GameModeName": "",
+        "PlayerName": "SANTI",
+        "Score": 10
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "JIME",
+        "Score": 12
+    }
+]

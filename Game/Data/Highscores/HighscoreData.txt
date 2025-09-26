@@ -1,0 +1,47 @@
+[
+    {
+        "GameModeName": "",
+        "PlayerName": "SANTI",
+        "Score": 10
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "JIME",
+        "Score": 12
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "SANTI",
+        "Score": 12
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "JIME",
+        "Score": 6
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "SANTI",
+        "Score": 168
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "JIME",
+        "Score": 140
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "IBJBW",
+        "Score": 0
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "AI",
+        "Score": 0
+    },
+    {
+        "GameModeName": "",
+        "PlayerName": "AAII",
+        "Score": 0
+    }
+]
